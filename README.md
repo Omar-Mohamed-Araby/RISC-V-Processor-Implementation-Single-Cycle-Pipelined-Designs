@@ -24,7 +24,7 @@ Execution: ALU, Branch and Jump Logic.
 
 Memory Access & Write Back: Data Memory and Write Back Multiplexer.
 
-![Risc V pipelined](./Riscv.png)
+![Risc V pipelined](./RiscV.png)
 
 # Verification & Simulation:
 Testbenches, simulation waveform data, RTL descriptions, synthesis results, and timing analyses confirm the correctness and performance of the designs.
